@@ -1,0 +1,33 @@
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.AssemblyReference.cache
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque.Gestion.resources
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque.FormClient.resources
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque.Properties.Resources.resources
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.GenerateResource.cache
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.CoreCompileInputs.cache
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\Google.Protobuf.dll
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\MySql.Data.dll
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\Google.Protobuf.xml
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\bin\Debug\MySql.Data.xml
+C:\Users\Salim\OneDrive - Région Île-de-France\Salim\BTS-2022-2023\EFREI\TP Banque\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.CopyComplete
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\Google.Protobuf.dll
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\MySql.Data.dll
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\Google.Protobuf.xml
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\bin\Debug\MySql.Data.xml
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.AssemblyReference.cache
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque.Gestion.resources
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque.FormClient.resources
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque.Properties.Resources.resources
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.GenerateResource.cache
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.CoreCompileInputs.cache
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\Banque GraphiqueDAO.csproj.CopyComplete
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\namlu\Downloads\Banque V4 - Etudiants\Banque V4 - Etudiants\obj\x86\Debug\WindowsFormsApplication1.pdb
